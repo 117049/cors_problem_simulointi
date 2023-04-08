@@ -1,0 +1,2 @@
+# cors_problem_simulointi
+通过仿真实现跨域资源访问的限制
